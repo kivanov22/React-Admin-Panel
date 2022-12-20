@@ -12,30 +12,39 @@ import PsychologyOutlinedIcon from '@mui/icons-material/PsychologyOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import PeopleOutlineOutlinedIcon from '@mui/icons-material/PeopleOutlineOutlined';
 import LoginOutlinedIcon from '@mui/icons-material/LoginOutlined';
+import {Link} from "react-router-dom";
 
 const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="top">
+        <Link to="/" style={{textDecoration:"none"}}>
         <span className="logo">IvanovAdmin</span>
+        </Link>
       </div>
       <hr />
       <div className="center">
         <ul>
           <p className="title">MAIN</p>
+          <Link to="/" style={{textDecoration:"none"}}>
           <li>
             <DashboardIcon className="icon"/>
             <span>Dashboard</span>
           </li>
+          </Link>
           <p className="title">LISTS</p>
+          <Link to="/users" style={{textDecoration:"none"}}>
           <li>
             <PeopleOutlineOutlinedIcon className="icon"/>
             <span>Users</span>
           </li>
+          </Link>
+          <Link to="/products" style={{textDecoration:"none"}}>
           <li>
             <StoreRoundedIcon className="icon"/>
             <span>Products</span>
           </li>
+          </Link>
           <li>
             <LocalMallRoundedIcon className="icon"/>
             <span>Orders</span>
