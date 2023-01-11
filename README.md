@@ -16,7 +16,24 @@
 
 Here is some project screenshots ..
 
-<!-- ![Results Screenshot](public/screenshots/resultspage.png?raw=true "Results Page") -->
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin1.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin2.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin3.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin4.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin5.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin6.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin7.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin8.png)
+
+![](https://github.com/kivanov22/React-Admin-Panel/blob/main/public/photos/admin9.png)
+
 ---
 
 
